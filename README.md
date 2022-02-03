@@ -12,7 +12,11 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![home](./1.png)
+
+![aboutus](./2.png)
+
+![t](./3.png)
 
 
 ## Result:
